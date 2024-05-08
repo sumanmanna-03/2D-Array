@@ -52,7 +52,7 @@ int main()
   // }
 
   //------transposing-3-------
-     // changing j<=i > in column
+     // changing (j<=i) > in column
 
   for(int i=0;i<n;i++){
     for(int j=0;j<=i;j++){
